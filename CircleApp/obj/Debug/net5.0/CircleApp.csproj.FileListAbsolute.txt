@@ -1,0 +1,15 @@
+/Users/panda/Projects/CircleApp/CircleApp/bin/Debug/net5.0/CircleApp.deps.json
+/Users/panda/Projects/CircleApp/CircleApp/bin/Debug/net5.0/CircleApp.runtimeconfig.json
+/Users/panda/Projects/CircleApp/CircleApp/bin/Debug/net5.0/CircleApp.runtimeconfig.dev.json
+/Users/panda/Projects/CircleApp/CircleApp/bin/Debug/net5.0/CircleApp.dll
+/Users/panda/Projects/CircleApp/CircleApp/bin/Debug/net5.0/ref/CircleApp.dll
+/Users/panda/Projects/CircleApp/CircleApp/bin/Debug/net5.0/CircleApp.pdb
+/Users/panda/Projects/CircleApp/CircleApp/obj/Debug/net5.0/CircleApp.csproj.AssemblyReference.cache
+/Users/panda/Projects/CircleApp/CircleApp/obj/Debug/net5.0/CircleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/panda/Projects/CircleApp/CircleApp/obj/Debug/net5.0/CircleApp.AssemblyInfoInputs.cache
+/Users/panda/Projects/CircleApp/CircleApp/obj/Debug/net5.0/CircleApp.AssemblyInfo.cs
+/Users/panda/Projects/CircleApp/CircleApp/obj/Debug/net5.0/CircleApp.csproj.CoreCompileInputs.cache
+/Users/panda/Projects/CircleApp/CircleApp/obj/Debug/net5.0/CircleApp.dll
+/Users/panda/Projects/CircleApp/CircleApp/obj/Debug/net5.0/ref/CircleApp.dll
+/Users/panda/Projects/CircleApp/CircleApp/obj/Debug/net5.0/CircleApp.pdb
+/Users/panda/Projects/CircleApp/CircleApp/obj/Debug/net5.0/CircleApp.genruntimeconfig.cache
